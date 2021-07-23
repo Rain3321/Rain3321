@@ -1,11 +1,11 @@
 ### Hi there 👋
-#### 
+#### I'm interested in Java, Python.
 
 
 [![Rain3321's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rain3321&count_private=true&show_icons=true&theme=darcula&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rain3321&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+### BOJ rank
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=smw123123)](https://solved.ac/smw123123)
 
 <!--
