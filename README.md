@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![Rain3321's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rain3321)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Rain3321/Rain3321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
