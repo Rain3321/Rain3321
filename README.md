@@ -1,6 +1,6 @@
 ### 안녕하세요! 👋
 #### 잘부탁드립니다 😄
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRain3321&count_bg=%2335C6E3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Rain3321's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rain3321&count_private=true&show_icons=true&theme=darcula&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rain3321&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
